@@ -8,12 +8,12 @@ public class BolaDeCristal {
 			"Seguro",
 			"Asi se decidio",
 			"Todo indica que si",
-			"Las estrellas no estan alineadas",
+			"Mi respuesta es no",
 			"Yo digo que no",
-			"Es dudoso",
-			"Mejor no te lo digo ahora",
+			"Todo indica que no",		
 			"Concentrate y pregunta de nuevo",
-			"No te puedo contestar"							
+			"No te lo puedo decir ahora"
+										
 	};
 	
 	

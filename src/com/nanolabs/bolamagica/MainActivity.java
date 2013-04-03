@@ -30,6 +30,7 @@ public class MainActivity extends Activity {
 				
 				//Texto en la etiqueta
 				Respuesta_etiqueta.setText(Respuesta);
+				Respuesta_etiqueta.setTextColor(0xFF000000);
 				
 			}
 		});
