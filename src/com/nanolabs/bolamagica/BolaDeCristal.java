@@ -5,15 +5,19 @@ import java.util.Random;
 public class BolaDeCristal {
 	
 	public String[] mRespuestas = {
+			"Simona la cacarisa",
 			"Seguro",
-			"Asi se decidio",
 			"Todo indica que si",
+			"Si",
+			"El History Channel dice que si",
+			"jajajaja NO",
 			"Mi respuesta es no",
-			"Yo digo que no",
-			"Todo indica que no",		
+			"En tus Sueños",
+			"Ohh por favor pfff",
+			"Chuck Norris dice que no",		
 			"Concentrate y pregunta de nuevo",
-			"No te lo puedo decir ahora"
-										
+			"No te lo puedo decir ahora",
+			"Creeme que no me importa"										
 	};
 	
 	
